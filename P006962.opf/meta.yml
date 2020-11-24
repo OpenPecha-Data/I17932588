@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG14627
   title: དཀོན་མཆོག་འཕན་དར་དང་ཀོང་སྤྲུལ་ཡོན་ཏན་རྒྱ་མཚོའི་རྣམ་ཐར།
-  volume: ''
+  volume:
+    340748b85f85466ca3e306debc28a0a5:
+      image_group_id: I1KG15643
+      title: Volume 1 of dkon mchog 'phan dar dang kong sprul yon tan rgya mtsho'i
+        rnam thar/
+      volume_number: 1
+      total_pages: 468
   author: ''
+ebook_metadata:
+  title: དཀོན་མཆོག་འཕན་དར་དང་ཀོང་སྤྲུལ་ཡོན་ཏན་རྒྱ་མཚོའི་རྣམ་ཐར།
+  author: ''
+  sku: P006962
+  cover: cover.jpg
+  layers:
+  - pagination
